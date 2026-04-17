@@ -1,0 +1,10 @@
+{
+  "name": "hyeju-jaehyun-invite",
+  "version": "1.0.0",
+  "description": "혜주 & 재현 청첩장",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && cd dist && npx serve ."
+  },
+  "private": true
+}
